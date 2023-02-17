@@ -34,7 +34,7 @@ Or alternatively
 
     mvn clean install -PautoInstallSinglePackage -Daem.port=4503
 
-Or to deploy only the bundle to the author, run
+Or to deploy only the bundle to the author, run1
 
     mvn clean install -PautoInstallBundle
 
