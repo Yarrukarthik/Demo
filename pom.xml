@@ -744,7 +744,7 @@ Bundle-DocURL:
       </plugins>
               
     </pluginManagement>
-        
+     
   </build>
       
   <profiles>
@@ -960,6 +960,7 @@ Bundle-DocURL:
           </plugins>
                           
         </pluginManagement>
+		
                     
       </build>
               
