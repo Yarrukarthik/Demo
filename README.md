@@ -53,7 +53,7 @@ test, execute:
 
     mvn clean test
 
-### Integration tests
+### Integration tests:
 
 This allows running integration tests that exercise the capabilities of AEM via
 HTTP calls to its API. To run the integration tests, run:
